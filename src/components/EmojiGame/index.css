@@ -1,0 +1,13 @@
+/* Write your code here. */
+.game-container {
+  background-image: linear-gradient(to top, #6a59ff, #fbc7d4);
+  min-height: 100vh;
+  margin: 0px;
+  padding: 10px;
+}
+
+.emojis-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

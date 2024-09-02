@@ -1,0 +1,17 @@
+/* Write your code here. */
+.emoji-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  margin: 20px;
+}
+
+.emoji-image {
+  cursor: pointer;
+  outline: none;
+}
